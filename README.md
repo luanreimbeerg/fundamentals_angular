@@ -16,3 +16,7 @@ ng g m caminho --routing --route nome-component --module app-routing.module.ts
     ng g m caminho/nome-component
     ng g c caminho/nome-component
 ```
+
+## Commit pattern
+
+![alt text](https://raw.githubusercontent.com/legend80s/commit-msg-linter/master/assets/demo-7-compressed.png)
